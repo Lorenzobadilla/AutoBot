@@ -1042,4 +1042,3 @@ const Currencies = {
   }
 };
 main()
-module.exports = app;
